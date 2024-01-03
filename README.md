@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   
-  <h3>I am also writing a coursework - an internet-resource about relational databases in HTML, CSS, JS</h3>
+  <h3>I wrote a coursework - an internet-resource about relational databases in HTML, CSS, JS ([froleod.github.io](https://froleod.github.io/))</h3>
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   
