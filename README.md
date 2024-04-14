@@ -3,7 +3,6 @@
   <h3>2nd year student at Moscow Technological University</h3>
   <h3>I'm currently writing a coursework on the topic of a cardsharing company using Java, Spring</h3>
   <h3>I'm also learning the basics of Golang</h3>
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   
   <h3>I wrote a coursework - an internet-resource about relational databases in HTML, CSS, JS (https://froleod.github.io/)</h3>
   
