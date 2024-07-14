@@ -3,7 +3,7 @@
   <h3>3nd year student at RTU MIREA</h3>
   <h3>I wrote a coursework on the topic of a Carsharing company using Java, Spring (https://carsharing-tou0.onrender.com)</h3>
   
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) <img alt="" title="" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
 
   <h3>I wrote a coursework - an internet-resource about relational databases in HTML, CSS, JS (https://froleod.github.io/)</h3>
   
