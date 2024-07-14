@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h2>Hi there, I'm Leonid</h2> 
+  <h2>Leonid Frolov</h2> 
   <h3>3nd year student at RTU MIREA</h3>
   <h3>I wrote a coursework on the topic of a Carsharing company using Java, Spring (https://carsharing-tou0.onrender.com)</h3>
   
